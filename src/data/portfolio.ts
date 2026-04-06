@@ -135,7 +135,7 @@ export const experiences = [
   },
   {
     id: 3,
-    role: "Azure DevOps Engineer",
+    role: "Firmware & Embedded Engineering Associate - DevOps",
     company: "Accenture",
     location: "Hyderabad, India",
     period: "Mar 2022 – Apr 2023",
